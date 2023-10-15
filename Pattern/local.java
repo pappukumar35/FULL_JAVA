@@ -1,3 +1,4 @@
+package Pattern;
 
 public class local {
     public static String pappu = "Amit kumar";
