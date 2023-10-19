@@ -27,4 +27,8 @@ public class All_prime_in_a_range {
     public static void main(String[] args) {
         primesInRange(100);
     }
+
+    static int getpath(String path) {
+
+    }
 }
